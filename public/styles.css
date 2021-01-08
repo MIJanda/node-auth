@@ -1,5 +1,5 @@
 /* google fonts */
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap'); */
 
 body{
   margin: 20px 40px;
@@ -112,7 +112,7 @@ header .btn{
   display: inline-block;
   font-size: 0.8em;
 }
-.recipes{
+.recipes {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   column-gap: 30px;
@@ -120,7 +120,7 @@ header .btn{
   margin: 80PX AUTO;
   max-width: 1200px;
 }
-.recipe{
+.recipe {
   display: inline-block;
   border-radius: 20px;
   background: white;
